@@ -1,4 +1,4 @@
-# Welcome to CSST 2022
+# Welcome to the CSST Summer Institute for 2022
 
 CSST 2022 will be held in Austin June 6-9.
 
@@ -22,7 +22,7 @@ Flight and ground transportation to/from airports will be reimbursed. Please boo
 
 # Communications
 
-There is a Slack workspace at [https://csst2022.slack.com/](https://csst2022.slack.com/).
+The CSST 2022 Slack is at [https://csst2022.slack.com/](https://csst2022.slack.com/). The workspace will be transferred to the campers as a community space after the end of the institute.
 
 # Reimbursement
 
