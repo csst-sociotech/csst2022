@@ -29,6 +29,8 @@ Please book and pay for your own flights to Austin airport (AUS), keeping email/
 
 **Depart** either after 5pm Thursday June 9 or anytime Friday June 10.
 
+A survey will be sent via email to ask if accomodation is required for the Thursday night (i.e., if you are departing on Thursday evening or Friday).
+
 ## Airport transfers
 
 We will reimburse airport transfers (to/from departure airport, to/from Austin airport). Austin airport has signage for their ride-sharing/taxi pickup (recommend requesting a ride while in the terminal). Please organize yourselves, pay, and keep receipts for [reimbursement](#reimbursement).
