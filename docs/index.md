@@ -1,4 +1,5 @@
 # Welcome to the CSST Summer Institute for 2022
+{:.no_toc}
 
 CSST 2022 will be held in Austin June 6-9.
 
