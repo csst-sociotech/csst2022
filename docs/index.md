@@ -33,8 +33,28 @@ Please book and pay for your own flights to Austin airport (AUS), keeping email/
 
 We will reimburse airport transfers (to/from departure airport, to/from Austin airport). Austin airport has signage for their ride-sharing/taxi pickup (recommend requesting a ride while in the terminal). Please organize yourselves, pay, and keep receipts for [reimbursement](#reimbursement).
 
+# Accomodation
+
+Accomodation for both campers and mentors will be paid directly, no reimbursement required.
+
+Accomodation for campers will be on campus at UT Austin. Considering COVID this year all campers will have single rooms. To make that work in the budget you will need to bring your own towel.  So, uh, make like Douglas Adams said :)  Breakfast for campers is available either in on campus dining or in restaurants nearby (reimbursed via per diem).  My personal favorite, en route from campus to the iSchool, is [Arturo's Underground Cafe](https://goo.gl/maps/Zs65oJPuFe2AeSx59).
+
+Accomodation for mentors is at the [Hilton Garden Inn Austin University Capitol District](https://goo.gl/maps/m6QusE9WzbvwYnMZA). Breakfast is included.
+
+# Meals
+
+For breakfast, see [Accommodation](#accomodation).
+
+Other meals will be either provided by the event or self-paid and reimbursed via per diem (no receipts required). See [Federal Meals & Incidental Expenses breakdown for Austin TX](https://www.gsa.gov/travel/plan-book/per-diem-rates/per-diem-rates-results/?action=perdiems_report&state=TX&fiscal_year=2022&zip=78701&city=). That amount is reduced by the per diem breakdown for meals provided by the conference or hotel. So, for example, if a dinner is provided then the per diem rate for that day is reduced by the amount shown for dinner.
+
 # Reimbursement
+
+Thanks to support from the NSF, the Sloan Foundation, and the Texas iSchool, we are able to provide travel, meals, and accomodation.
 
 ## Reimbursement for Mentors
 
+Mentors will file through UT Austin. Forms and instructions to come.
+
 ## Reimbursement for Campers
+
+Campers will file through Drexel. Forms and instructions to come.
