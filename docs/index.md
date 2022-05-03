@@ -50,8 +50,7 @@ Please book and pay for your own flights to Austin airport (AUS), keeping email/
 
 **Arrive** by ~5pm Monday June 6 (giving enough time to check in and attend 6pm reception event). Accomodation checkin is ~2pm.
 
-**Depart** either after 5pm Thursday June 9 or anytime Friday June 10.
-
+**Depart** either Thursday June 9 or Friday June 10. If Thursday (and missing optional social event) earliest flight at 6pm Thursday, please.
 A survey will be sent via email to ask if accomodation is required for the Thursday night (i.e., if you are departing on Thursday evening or Friday).
 
 ## Airport transfers
