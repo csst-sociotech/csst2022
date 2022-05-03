@@ -11,8 +11,8 @@ CSST 2022 will be held in Austin June 6-9.
 
 |     | Monday June 6                          | Tuesday June 7      | Wednesday June 8    | Thursday June 9                           | Friday June 10  |
 |-----|----------------------------------------|---------------------|---------------------|-------------------------------------------|--------|
-| Day | Travel (flight arrive by 5pm, ideally) | Sessions            | Sessions            | Sessions through 2pm                      | Travel |
-|     | 6pm optional reception                 | Social Event/Dinner | Social Event/Dinner | Optional Social Event       or Travel (flights after 5pm)                 |        |
+| Day | Travel (flight arrive by 5pm, ideally) | Sessions            | Sessions            | Sessions through 3pm                      | Travel |
+|     | 6pm optional reception                 | Social Event/Dinner | Social Event/Dinner | Optional Social Event       or Travel (flights after 6pm)                 |        |
 
 # Communications
 
