@@ -1,7 +1,7 @@
 # Welcome to the CSST Summer Institute for 2022
 {:.no_toc}
 
-CSST 2022 will be held in Austin June 6-9.
+CSST 2022 will be held in Austin June 6-9. 
 
 * Placeholder for TOC
 {:toc}
@@ -33,6 +33,8 @@ Many thanks to the mentors who have agreed to participate.  We are working on cr
 - [Lilly Irani, UC San Diego](https://quote.ucsd.edu/lirani/)
 - [Likoebe Maruping, Georgia State](https://lmaruping.com/)
 - [Morgan Ames, UC Berkeley](https://morganya.org/)
+
+The event is organized by [James Howison, University of Texas at Austin](http://james.howison.name), with support from the [CSST Steering Committee](https://sociotech.net/)
 
 # Campers
 
