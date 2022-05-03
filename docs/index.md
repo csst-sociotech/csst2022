@@ -18,6 +18,26 @@ CSST 2022 will be held in Austin June 6-9.
 
 The CSST 2022 Slack is at [https://csst2022.slack.com/](https://csst2022.slack.com/). The workspace will be transferred to the campers as a community space after the end of the institute.
 
+# Mentors
+
+Many thanks to the mentors who have agreed to participate.  We are working on creating mentoring groups of Campers for each mentor (likely 3 campers).
+
+- [Steve Voida, University of Colorado](https://stephen.voida.com/)
+- [Melissa Mazmanian, UC Irvine](https://melissamazmanian.com/)
+- [Madhu Reddy, UC Irvine](https://www.informatics.uci.edu/explore/faculty-profiles/madhu-reddy/)
+- [Laura Dabbish, CMU](http://www.lauradabbish.com/)
+- [Jeff Treem, Texas](http://jeffreytreem.com/)
+- [Lionel Robert, Michigan](https://sites.google.com/a/umich.edu/lionelrobert/) 
+- [Tammy Clegg, Maryland](https://education.umd.edu/directory/tamara-clegg)
+- [Eric Meyer, Texas](https://dean.ischool.utexas.edu/)
+- [Lilly Irani, UC San Diego](https://quote.ucsd.edu/lirani/)
+- [Likoebe Maruping, Georgia State](https://lmaruping.com/)
+- [Morgan Ames, UC Berkeley](https://morganya.org/)
+
+# Campers
+
+Announcement coming very soon.
+
 # Travel planning
 
 Flight and ground transportation to/from airports will be reimbursed. 
