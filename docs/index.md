@@ -55,7 +55,7 @@ A survey will be sent via email to ask if accomodation is required for the Thurs
 
 ## Airport transfers
 
-We will reimburse airport transfers (to/from departure airport, to/from Austin airport). Austin airport has signage for their ride-sharing/taxi pickup (recommend requesting a ride while in the terminal). Please organize yourselves, pay, and keep receipts for [reimbursement](#reimbursement). We anticipate ground transportation at around $100 per participant (and encourage shared rides where possible).
+We will reimburse airport transfers (to/from departure airport, to/from Austin airport). Austin airport has signage for their ride-sharing/taxi pickup (recommend requesting a ride while in the terminal). Please organize yourselves, pay, and keep receipts for [reimbursement](#reimbursement). We anticipate ground transportation up to $100 per participant (and encourage shared rides where possible).
 
 # Accomodation
 
@@ -73,4 +73,4 @@ Other meals will be either provided by the event or self-paid and reimbursed.
 
 # Reimbursement
 
-Thanks to support from the NSF, the Sloan Foundation, and the Texas iSchool, we are able to provide travel, meals, and accomodation. Details for filing reimbursements will be provided before the event. Please keep all receipts for reimbursement.
+Thanks to support from the NSF, the Sloan Foundation, and the Texas iSchool, we are able to provide travel, meals, and accomodation, as discussed above. Details for filing reimbursements will be provided before the event. Please keep all receipts for reimbursement.
