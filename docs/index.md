@@ -55,7 +55,7 @@ A survey will be sent via email to ask if accomodation is required for the Thurs
 
 ## Airport transfers
 
-We will reimburse airport transfers (to/from departure airport, to/from Austin airport). Austin airport has signage for their ride-sharing/taxi pickup (recommend requesting a ride while in the terminal). Please organize yourselves, pay, and keep receipts for [reimbursement](#reimbursement).
+We will reimburse airport transfers (to/from departure airport, to/from Austin airport). Austin airport has signage for their ride-sharing/taxi pickup (recommend requesting a ride while in the terminal). Please organize yourselves, pay, and keep receipts for [reimbursement](#reimbursement). We anticipate ground transportation at around $100 per participant (and encourage shared rides where possible).
 
 # Accomodation
 
