@@ -46,7 +46,7 @@ Flight and ground transportation to/from airports will be reimbursed.
 
 ## Flights
 
-Please book and pay for your own flights to Austin airport (AUS), keeping email/PDF receipts for [reimbursement](#reimbursement).
+Please book and pay for your own flights to Austin airport (AUS), keeping email/PDF receipts for [reimbursement](#reimbursement). We have budgeted to reimburse fights up to $500 per participant, but we understand costs are all over the place, please contact James Howison if your flight costs must exceed $500.
 
 **Arrive** by ~5pm Monday June 6 (giving enough time to check in and attend 6pm reception event). Accomodation checkin is ~2pm.
 
@@ -59,7 +59,7 @@ We will reimburse airport transfers (to/from departure airport, to/from Austin a
 
 # Accomodation
 
-Accomodation for both campers and mentors will be book and paid directly, no reimbursement required.
+Accomodation for both campers and mentors will be booked and paid directly, no reimbursement required.
 
 Accomodation for campers will be on campus at UT Austin. Considering COVID this year all campers will have single rooms. To make that work in the budget you will need to bring your own towel.  So, uh, make like Douglas Adams said :)  Breakfast for campers is available either in on campus dining or in restaurants nearby (reimbursed via per diem).  My personal favorite, en route from campus to the iSchool, is [Arturo's Underground Cafe](https://goo.gl/maps/Zs65oJPuFe2AeSx59).
 
@@ -73,4 +73,4 @@ Other meals will be either provided by the event or self-paid and reimbursed.
 
 # Reimbursement
 
-Thanks to support from the NSF, the Sloan Foundation, and the Texas iSchool, we are able to provide travel, meals, and accomodation. Details for filing reimbursements will be provided before the event.
+Thanks to support from the NSF, the Sloan Foundation, and the Texas iSchool, we are able to provide travel, meals, and accomodation. Details for filing reimbursements will be provided before the event. Please keep all receipts for reimbursement.
