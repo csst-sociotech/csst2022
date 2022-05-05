@@ -69,7 +69,7 @@ Accomodation for mentors is at the [Hilton Garden Inn Austin University Capitol 
 
 For breakfast, see [Accommodation](#accomodation).
 
-Other meals will be either provided by the event or self-paid and reimbursed via per diem (no receipts required). See [Federal Meals & Incidental Expenses breakdown for Austin TX](https://www.gsa.gov/travel/plan-book/per-diem-rates/per-diem-rates-results/?action=perdiems_report&state=TX&fiscal_year=2022&zip=78701&city=). That amount is reduced by the per diem breakdown for meals provided by the conference or hotel. So, for example, if a dinner is provided then the per diem rate for that day is reduced by the amount shown for dinner.
+Other meals will be either provided by the event or self-paid and reimbursed.
 
 # Reimbursement
 
