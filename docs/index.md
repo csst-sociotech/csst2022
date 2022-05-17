@@ -25,7 +25,6 @@ Many thanks to the mentors who have agreed to participate.  We are working on cr
 - [Steve Voida, University of Colorado](https://stephen.voida.com/)
 - [Melissa Mazmanian, UC Irvine](https://melissamazmanian.com/)
 - [Madhu Reddy, UC Irvine](https://www.informatics.uci.edu/explore/faculty-profiles/madhu-reddy/)
-- [Laura Dabbish, CMU](http://www.lauradabbish.com/)
 - [Jeff Treem, Texas](http://jeffreytreem.com/)
 - [Lionel Robert, Michigan](https://sites.google.com/a/umich.edu/lionelrobert/) 
 - [Tammy Clegg, Maryland](https://education.umd.edu/directory/tamara-clegg)
@@ -34,7 +33,9 @@ Many thanks to the mentors who have agreed to participate.  We are working on cr
 - [Likoebe Maruping, Georgia State](https://lmaruping.com/)
 - [Morgan Ames, UC Berkeley](https://morganya.org/)
 
-The event is organized by [James Howison, University of Texas at Austin](http://james.howison.name), with support from the [CSST Steering Committee](https://sociotech.net/)
+
+
+The event is organized by [James Howison, University of Texas at Austin](http://james.howison.name), with support from the [CSST Steering Committee](https://sociotech.net/).[^1] 
 
 # Campers
 
@@ -74,3 +75,5 @@ Other meals will be either provided by the event or self-paid and reimbursed.
 # Reimbursement
 
 Thanks to support from the NSF, the Sloan Foundation, and the Texas iSchool, we are able to provide travel, meals, and accomodation, as discussed above. Details for filing reimbursements will be provided before the event. Please keep all receipts for reimbursement.
+
+[^1]: [Laura Dabbish, CMU](http://www.lauradabbish.com/) was listed as a mentor, but unfortunately cannot attend; she sends her regrets.
