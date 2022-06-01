@@ -11,8 +11,23 @@ CSST 2022 will be held in Austin June 6-9.
 
 |     | Monday June 6                          | Tuesday June 7      | Wednesday June 8    | Thursday June 9                           | Friday June 10  |
 |-----|----------------------------------------|---------------------|---------------------|-------------------------------------------|--------|
-| Day | Travel (flight arrive by 5pm, ideally) | Sessions            | Sessions            | Sessions through 3pm                      | Travel |
-|     | 6pm-10pm optional reception at Hole in the Wall                 | City tour Scavenger Hunt| Small group Dinners | Optional Social Event       or Travel (flights after 6pm)                 |        |
+| Day | Travel (flight arrive by 5pm, ideally) | Sessions  (9-4)          | Sessions  (9-4:30)          | Sessions through 3pm                      | Travel |
+|     | 6pm-10pm optional reception at Hole in the Wall                 | 5pm City tour Scavenger Hunt| Small group Dinners | Optional Social Event       or Travel (flights after 6pm)                 |        |
+
+The sessions will be made up of a combination of four types of events (in addition to social events).
+
+1. Mentoring sessions 
+  - Groups of three campers with one mentor.  One hour discussion each day as a group, but focused on one of the campers using the application PDF as basis for discussion
+
+2. Panels
+  - 3-5 mentors addressing topics of professional importance, with Q&A from campers.
+ 
+3. Workshops/Master classes
+  - Practice focused practical activities lead by mentors. Parallel sessions for 5-10 campers each.
+
+4. Grant proposal workshop sessions
+  - Mentors will introduce and give context on solicitations
+  - Campers will be organized into groups (random, stratified by career stage) and given a worksheet to assist structuring developing an proposal idea
 
 # Communications
 
