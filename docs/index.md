@@ -12,7 +12,7 @@ CSST 2022 will be held in Austin June 6-9.
 |     | Monday June 6                          | Tuesday June 7      | Wednesday June 8    | Thursday June 9                           | Friday June 10  |
 |-----|----------------------------------------|---------------------|---------------------|-------------------------------------------|--------|
 | Day | Travel (flight arrive by 5pm, ideally) | Sessions  (9-4)          | Sessions  (9-4:30)          | Sessions through 3pm                      | Travel |
-|     | 6pm-10pm optional reception at Hole in the Wall                 | 5pm City tour Scavenger Hunt| Small group Dinners | Optional Social Event       or Travel (flights after 6pm)                 |        |
+|     | 6pm-10pm optional reception at [Hole in the Wall](https://goo.gl/maps/cgQws55pXQDyr6kBA)                 | 5pm City tour Scavenger Hunt| Small group Dinners | Optional Social Event       or Travel (flights after 6pm)                 |        |
 
 The sessions will be made up of a combination of four types of events (in addition to social events).
 
