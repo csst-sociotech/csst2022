@@ -12,7 +12,7 @@ CSST 2022 will be held in Austin June 6-9.
 |     | Monday June 6                          | Tuesday June 7      | Wednesday June 8    | Thursday June 9                           | Friday June 10  |
 |-----|----------------------------------------|---------------------|---------------------|-------------------------------------------|--------|
 | Day | Travel (flight arrive by 5pm, ideally) | Sessions            | Sessions            | Sessions through 3pm                      | Travel |
-|     | 6pm optional reception                 | Social Event/Dinner | Social Event/Dinner | Optional Social Event       or Travel (flights after 6pm)                 |        |
+|     | 6pm-10pm optional reception at Hole in the Wall                 | City tour Scavenger Hunt| Small group Dinners | Optional Social Event       or Travel (flights after 6pm)                 |        |
 
 # Communications
 
@@ -39,11 +39,37 @@ The event is organized by [James Howison, University of Texas at Austin](http://
 
 # Campers
 
-Announcement coming very soon.
+- Chun-Hua Tsai, Assistant Prof, Nebraska Omaha (College of Information and Technology)
+- Sukrit Venkatagiri, PhD Candidate	Virginia Tech
+- Travis Wagner, Postdoc, Maryland
+- Hawra Rabaan, PhD Candidate,	Indiana (Informatics)
+- Daniel Gardner, Postdoc,	Chapman University
+- Rosemary Steup, PhD Candidate, Indiana (Informatics)
+- Angela Smith, Assistant Prof, Texas (Information)
+- Spencer Williams, PhD Candidate, Washington
+- Sai Shruthi Chivukula, Postdoc, Indiana (Informatics)
+- Preeti Srinivasan, Industry Researcher, ServiceNow
+- Jinkyung Park, PhD Candidate, Rutgers University
+- Fernando Maestre, Postdoc, University of Minnesota
+- Brian McInnis, Postdoc, UC San Diego
+- Raina Langevin, PhD Candidate, Washington
+- Jieshu Wang, PhD Candidate, Arizona State University
+- Yixue Wang, PhD Candidate, Northwestern 
+- Aditi Mallavarapu, Postdoc, CIRCLS 
+- Jordan Wirfs-Brock, PhD Candidate, UC Boulder
+- Ridley Jones, PhD Candidate,	Washington
+- Shiva Darian, PhD Candidate, UC Boulder
+- Soya Park, PhD Candidate, MIT
+- Marina Fedorova, PhD Candidate, UC Irvine
+- Siva Ratna Kumari Narisetti, Postdoc, UIUC
+- Calvin Liang, PhD Candidate, Washington
+- Lichen Zhen, PhD Candidate, USC
+- Ido Sivan-Sevilla, Assistant Prof, Maryland
+- Pranut Jain, PhD Candidate, Pittsburgh
 
 # Travel planning
 
-Flight and ground transportation to/from airports will be reimbursed. 
+Flight and ground transportation to/from airports will be reimbursed as described below.
 
 ## Flights
 
@@ -70,10 +96,32 @@ Accomodation for mentors is at the [Hilton Garden Inn Austin University Capitol 
 
 For breakfast, see [Accommodation](#accomodation).
 
-Other meals will be either provided by the event or self-paid and reimbursed.
+Other meals will be either provided by the event or self-paid and reimbursed (please keep receipts).  Meals will include small group reservations at restaurants around town, with sign up sheets during the event.
 
 # Reimbursement
 
 Thanks to support from the NSF, the Sloan Foundation, and the Texas iSchool, we are able to provide travel, meals, and accomodation, as discussed above. Details for filing reimbursements will be provided before the event. Please keep all receipts for reimbursement.
+
+# Packing List
+
+Everyone:
+
+- hot weather clothes (temps could hit 100° in the afternoons)
+- hat
+- sunscreen
+- refillable water bottle
+- swimming clothes/towel (for optional Thursday afternoon trip to Barton Springs)
+- lightweight sweater (air conditioning can sometimes go awry)
+
+Additionall required for Campers:
+
+- towel
+- soap
+
+# Covid policies
+
+Masks will be optional and we will have masks available on site.
+
+We are asking everyone to take a rapid test prior to departing for travel, and not to attend if positive, or if a member of your household is testing positive.  Additional rapid tests will be available at the Monday evening welcome session (and each day).
 
 [^1]: [Laura Dabbish, CMU](http://www.lauradabbish.com/) was listed as a mentor, but unfortunately cannot attend; she sends her regrets.
