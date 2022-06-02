@@ -62,7 +62,7 @@ The event is organized by [James Howison, University of Texas at Austin](http://
 - Rosemary Steup, PhD Candidate, Indiana (Informatics)
 - Angela Smith, Assistant Prof, Texas (Information)
 - Spencer Williams, PhD Candidate, Washington
-- Sai Shruthi Chivukula, Postdoc, Indiana (Informatics)
+- Sai Shruthi Chivukula, Assistant Prof (visiting), Indiana (Informatics)
 - Preeti Srinivasan, Industry Researcher, ServiceNow
 - Jinkyung Park, PhD Candidate, Rutgers University
 - Fernando Maestre, Postdoc, University of Minnesota
