@@ -103,7 +103,9 @@ We will reimburse airport transfers (to/from departure airport, to/from Austin a
 
 Accomodation for both campers and mentors will be booked and paid directly, no reimbursement required.
 
-Accomodation for campers will be on campus at UT Austin. Considering COVID this year all campers will have single rooms. To make that work in the budget you will need to bring your own towel.  So, uh, make like Douglas Adams said :)  Breakfast for campers is available either in on campus dining or in restaurants nearby (reimbursed via per diem).  My personal favorite, en route from campus to the iSchool, is [Arturo's Underground Cafe](https://goo.gl/maps/Zs65oJPuFe2AeSx59).
+Accomodation for campers will be on campus at UT Austin at the [Blanton Residence Hall](https://goo.gl/maps/emRBwruVvDfmg9Kg6). Campers can check in on Sunday and check out on Thursday or Friday.  Check in is 24 hours, but might be a little slow after hours. 
+
+Considering COVID this year all campers will have single rooms. To make that work in the budget you will need to bring your own towel.  So, uh, make like Douglas Adams said :)  Breakfast for campers is available either in on campus dining or in restaurants nearby (reimbursed via per diem).  My personal favorite, en route from campus to the iSchool, is [Arturo's Underground Cafe](https://goo.gl/maps/Zs65oJPuFe2AeSx59).
 
 Accomodation for mentors is at the [Hilton Garden Inn Austin University Capitol District](https://goo.gl/maps/m6QusE9WzbvwYnMZA). Breakfast is included.
 
