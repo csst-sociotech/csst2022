@@ -128,7 +128,7 @@ Everyone:
 - swimming clothes/towel (for optional Thursday afternoon trip to Barton Springs)
 - lightweight sweater (air conditioning can sometimes go awry)
 
-Additionall required for Campers:
+Additionally required for Campers:
 
 - towel
 - soap
