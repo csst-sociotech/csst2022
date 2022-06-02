@@ -1,7 +1,7 @@
 # Welcome to the CSST Summer Institute for 2022
 {:.no_toc}
 
-CSST 2022 will be held in Austin June 6-9. Sessions will be in the Information School at UTexas, in the first floor classrooms. The Information School is located at 1616 Guadalupe Street, entry via the main entrance (only one on Guadalupe Street). [See the photo of the entrance](https://www.ischool.utexas.edu/about/contact-us). I will be at that entrance from 8:30 on Tuesday morning.
+CSST 2022 will be held in Austin June 6-9. Sessions will be in the Information School at UTexas, in the first floor classrooms. The Information School is located at [1616 Guadalupe Street](https://goo.gl/maps/i6Zg41Ns9AwXDnwC8), entry via the main entrance (only one on Guadalupe Street). [See the photo of the entrance](https://www.ischool.utexas.edu/about/contact-us). I will be at that entrance from 8:30 on Tuesday morning.
 
 * Placeholder for TOC
 {:toc}
