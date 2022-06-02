@@ -106,9 +106,9 @@ Accomodation for both campers and mentors will be booked and paid directly, no r
 Accomodation for campers will be on campus at UT Austin at the [Blanton Residence Hall](https://goo.gl/maps/emRBwruVvDfmg9Kg6); contact details foer it are on the [university page for Blanton Hall](https://housing.utexas.edu/housing/residence-halls/residence-hall-locations/blanton-hall) Campers can check in on Sunday or Monday and check out on Thursday or Friday.  Check in is 24 hours, but might be a little slow after hours. University Housing provided this info on check-in:
 
 > Check-In: Check-in is easy and a three-step process.
-> 1.       Go to front desk of the dorm and state that you are with a conference group and state the name of the conference
-> 2.       If 17 years of age and up we will ask for some form of ID to verify the name  of the summer conference registration
-> 3.       Once confirmed, we will then issue you a summer conference card (white card) and room key (Dobie has a fob)
+> Go to front desk of the dorm and state that you are with a conference group and state the name of the conference
+> If 17 years of age and up we will ask for some form of ID to verify the name  of the summer conference registration
+> Once confirmed, we will then issue you a summer conference card (white card) and room key (Dobie has a fob)
 
 > Conference White Card vs UT ID: You will be issued a summer conference card at check-in. This summer card is not an official UT ID card and will only work for UHD meal plans and door swipe access to enter the wing or sections of the dorm. Your group may require you to get an official UT ID card. If you get a UT Card you will still need to use both cards for they do not merge access to one. Lost cards are $10 each.
 
