@@ -137,6 +137,10 @@ Additionally required for Campers:
 
 Masks will be optional and we will have masks available on site.
 
-We are asking everyone to take a rapid test prior to departing for travel, and not to attend if positive, or if a member of your household is testing positive.  Additional rapid tests will be available at the Monday evening welcome session (and each day).
+We are asking everyone to take a rapid test prior to departing for travel, and not to travel if positive, or if a member of your household is testing positive.  Additional rapid tests will be available at the Monday evening welcome session (and each day), please test if you display symptoms and do not attend any events if you test positive.  Contact the organizers and we will help.
+
+# Code of conduct
+
+Code of conduct is being finalized. It will be based on the [ACM CSCW 2020 code of conduct](https://cscw.acm.org/2020/code-of-conduct/), and apply in person and on the event Slack, really just editing to make points of contact clear.
 
 [^1]: [Laura Dabbish, CMU](http://www.lauradabbish.com/) was listed as a mentor, but unfortunately cannot attend; she sends her regrets.
