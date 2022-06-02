@@ -111,6 +111,10 @@ Accomodation for campers will be on campus at UT Austin at the [Blanton Residenc
 
 > Key: A key or fob will be given at check-in with the summer conference card. if they key is lost the student or group will be charged $75 per key.
 
+> Parking: If you have questions about parking. Please contact parking at parking@austin.utexas.edu.
+> Check out. 1. Go to front desk of the dorm and state that you are with a conference group and state the name of the conference 2. We will pull up your information and ask for your key (fob) and card back.
+> Wifi: Use "utguest" network which does not require a password.
+
 Considering COVID this year all campers will have single rooms. To make that work in the budget you will need to bring your own towel.  So, uh, make like Douglas Adams said :)  Breakfast for campers is available either in on campus dining or in restaurants nearby (reimbursed via per diem).  My personal favorite, en route from campus to the iSchool, is [Arturo's Underground Cafe](https://goo.gl/maps/Zs65oJPuFe2AeSx59).
 
 Accomodation for mentors is at the [Hilton Garden Inn Austin University Capitol District](https://goo.gl/maps/m6QusE9WzbvwYnMZA). Breakfast is included.
