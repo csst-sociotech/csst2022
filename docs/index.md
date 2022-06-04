@@ -139,6 +139,7 @@ Everyone:
 - refillable water bottle
 - swimming clothes/towel (for optional Thursday afternoon trip to Barton Springs)
 - lightweight sweater (air conditioning can sometimes go awry)
+- umbrella or lightweight raincoat (walking for lunch, to and from accomodation)
 
 Additionally required for Campers:
 
