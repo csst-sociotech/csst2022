@@ -154,6 +154,43 @@ We are asking everyone to take a rapid test prior to departing for travel, and n
 
 # Code of conduct
 
-Code of conduct is being finalized. It will be based on the [ACM CSCW 2020 code of conduct](https://cscw.acm.org/2020/code-of-conduct/), and apply in person and on the event Slack, really just editing to make points of contact clear.
+The code of conduct below is based on the [ACM CSCW 2020 code of conduct](https://cscw.acm.org/2020/code-of-conduct/). 
+
+Welcome to CSST 2022. We believe in respect, compassion, understanding, and inclusion. We expect all community members to act in accordance with these values to create spaces where everyone can participate fully without fear of judgment or harassment.
+
+We expect participants to adhere to expected professional behavior of conference participants, including:
+
+- Treating everyone with respect and consideration; under the umbrella of respect, we expect all participants to be mindful of their speech and behaviors.
+- Communicating openly and thoughtfully with others and being considerate of the multitude of views and opinions that may be different than your own.
+- Being respectful and mindful in your critique of ideas.
+- Respecting others’ identities in full, e.g., using their specified pronouns.
+- Respecting others’ right to engage or disengage in conversation.
+- Accepting responsibility to take action, as bystanders and advocates, to call out and report misbehavior and to hold each other accountable to the Code.
+
+We are dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Participants violating these rules may be removed from the institute at the discretion of the organizers.
+
+Harassment includes, but is not limited to, these behaviors:
+
+- Comments that target other participants based on characteristics such as gender, gender identity and expression, sexual orientation, race, ethnicity, age, ability, status, physical appearance, body size, or religion.
+- Unwelcome personal attention, particularly when one individual has authority over the other.
+- Persistent, unwanted attempts to contact another group member, particularly when one individual has authority over the other.
+- Deliberate intimidation, stalking, or threats of violence.
+- Sustained disruption of presentations, events, or online discussion.
+- Advocating for, or encouraging, any of the above behavior.
+
+These principles apply in person; on the event Slack; and communications between participants through other forms of contact. Be mindful that having shared, for example, a phone number for coordination during an event, does not neccessarily indicate an invitation for ongoing communication.
+
+We expect everyone to participate in enforcing these policies. Any community member can report violations of the CSST Code of Conduct. Reports can be named or anonymous. We encourage peers and especially senior community members to make reports on behalf of colleagues who are not in a position to do so themselves, preferably with their consent. Options for reporting include:
+
+On site contacts:
+- James Howison, CSST Organizer. Email: jhowison@ischool.utexas.edu (or DM on CSST 2022 Slack)
+- Melissa Mazmanian, CSST Mentor. Email: mmazmani@uci.edu (or DM on CSST 2022 Slack)
+
+If the issue would best be handled outside of mentors on site for the event contact:
+- Jamie Snyder, CSST Steering committee member, Email: jas1208@uw.edu
+- Katie Shilton CSST Steering committee member, Email: kshilton@umd.edu
+
+Once we have received notification of a complaint, we will follow up and determine appropriate action.
+
 
 [^1]: [Laura Dabbish, CMU](http://www.lauradabbish.com/) was listed as a mentor, but unfortunately cannot attend; she sends her regrets.
