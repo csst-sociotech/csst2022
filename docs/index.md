@@ -40,17 +40,15 @@ Many thanks to the mentors who have agreed to participate.  We are working on cr
 - [Steve Voida, University of Colorado](https://stephen.voida.com/)
 - [Melissa Mazmanian, UC Irvine](https://melissamazmanian.com/)
 - [Madhu Reddy, UC Irvine](https://www.informatics.uci.edu/explore/faculty-profiles/madhu-reddy/)
-- [Jeff Treem, Texas](http://jeffreytreem.com/)
 - [Lionel Robert, Michigan](https://sites.google.com/a/umich.edu/lionelrobert/) 
 - [Tammy Clegg, Maryland](https://education.umd.edu/directory/tamara-clegg)
 - [Eric Meyer, Texas](https://dean.ischool.utexas.edu/)
 - [Lilly Irani, UC San Diego](https://quote.ucsd.edu/lirani/)
 - [Likoebe Maruping, Georgia State](https://lmaruping.com/)
-- [Morgan Ames, UC Berkeley](https://morganya.org/)
 
+[Laura Dabbish, CMU](http://www.lauradabbish.com/), [Morgan Ames, UC Berkeley](https://morganya.org/), and [Jeff Treem, Texas](http://jeffreytreem.com/) were listed as mentors, but unfortunately cannot attend; they send their regrets.
 
-
-The event is organized by [James Howison, University of Texas at Austin](http://james.howison.name), with support from the [CSST Steering Committee](https://sociotech.net/).[^1] 
+The event is organized by [James Howison, University of Texas at Austin](http://james.howison.name), with support from the [CSST Steering Committee](https://sociotech.net/), which currently includes Katie Shilton, David Ribes, Jaime Snyder, Andrea Forte, Jenn Thom, and  Morgan Ames.
 
 # Campers
 
@@ -193,4 +191,3 @@ If the issue would best be handled outside of mentors on site for the event cont
 Once we have received notification of a complaint, we will follow up and determine appropriate action.
 
 
-[^1]: [Laura Dabbish, CMU](http://www.lauradabbish.com/) was listed as a mentor, but unfortunately cannot attend; she sends her regrets.
