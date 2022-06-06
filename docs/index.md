@@ -146,7 +146,7 @@ Additionally required for Campers:
 
 # Covid policies
 
-Masks will be optional and we will have masks available on site.
+Masks will be ~~optional~~recommended and we will have masks available on site.
 
 We are asking everyone to take a rapid test prior to departing for travel, and not to travel if positive, or if a member of your household is testing positive.  Additional rapid tests will be available at the Monday evening welcome session (and each day), please test if you display symptoms and do not attend any events if you test positive.  Contact the organizers and we will help.
 
